@@ -1,0 +1,22 @@
+{
+  "lerna": "2.0.0-beta.18",
+  "version": "6.9.0",
+  "changelog": {
+    "repo": "babel/babel",
+    "labels": {
+      "tag: bug fix": "Bug Fix",
+      "tag: breaking change": "Breaking Change",
+      "tag: documentation": "Documentation",
+      "tag: internal": "Internal",
+      "tag: new feature": "New Feature",
+      "tag: polish": "Polish",
+      "tag: spec compliancy": "Spec Compliancy"
+    }
+  },
+  "publishConfig": {
+    "ignore": [
+      "*.md",
+      "test/*.*"
+    ]
+  }
+}
